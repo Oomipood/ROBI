@@ -43,7 +43,7 @@ void setup() {
 //BASIC PROGRAM CYCLE
 void loop() {
   
-////*******************WAITING FOR BLUETOOTH COMMANDS****************\\\\
+//*******************WAITING FOR BLUETOOTH COMMANDS****************
 
 check:
 
@@ -149,7 +149,7 @@ bluetoothCommand = bluetoothSerial.read();  //Check autopilot OFF/ON
 goto start; 
 }
 
-////***********************FUNCTIONS*******************************\\\\
+//***********************FUNCTIONS*******************************
 
 int ping(){                      //CHECK DISTANCE FUNCTION (3x)
   digitalWrite(trigPin, 0);
