@@ -11,3 +11,5 @@ Assembly video: https://www.youtube.com/watch?v=OPz41vDi1wQ
 
 [EST] Omanda teadmisi robootikast pannes ise komponentidest kokku toimiv robot. Robi on võimeline keerama paremale ja vasakule ning sõitma edasi ja tagasi. Robi sõidab automaatrežiimil ringi ja väldib takistusi tänu ultraheli moodulile.
 Võimalik on ka Robi käsitsijuhtimine läbi Android seadme - täpselt nagu puldiauto.
+
+Tested with Arduino IDE 1.6.5-r2
